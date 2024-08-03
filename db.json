@@ -19,7 +19,7 @@
                         },
         "UlcerativeColitis": {
                             "MobileNet":"https://ulcerativecolitis.onrender.com/predict"
-                        },
+                            }
           
       }
 
