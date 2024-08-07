@@ -15,7 +15,7 @@
         {
             "id": 3,
             "StomachCancer": {
-                "InceptionV3": "https://stomachcancer.onrender.com/predict"
+                "InceptionV3": "https://stomachcancer.onrender.com/predict_all"
             },
             "UlcerativeColitis": {
                 "MobileNet": "https://ulcerativecolitis.onrender.com/predict"
